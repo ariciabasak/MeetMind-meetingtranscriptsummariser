@@ -1,0 +1,10 @@
+Speaker A: Let's review the Q3 results before we finalize the report.
+Speaker B: Revenue grew 12% over Q2, mainly driven by the enterprise segment.
+Speaker C: Churn also went down slightly, from 4.1% to 3.6%.
+Speaker A: That's good news. What about the support ticket backlog?
+Speaker B: Still high, we're averaging 48 hour response time instead of our 24 hour target.
+Speaker A: We need to fix that. Let's decide to hire two more support engineers this quarter.
+Speaker C: I'll draft the job postings by Thursday.
+Speaker A: And Ravi, can you put together the final Q3 report slides by next Monday?
+Speaker B: Yes, I'll have a draft ready by Friday for review.
+Speaker A: Great, let's finalize everything by Monday's leadership meeting.

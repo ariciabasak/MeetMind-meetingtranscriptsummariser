@@ -1,0 +1,7 @@
+Speaker A: Morning everyone, let's do a quick standup. I finished the login page yesterday and started on the password reset flow today.
+Speaker B: I'm still blocked on the API integration — the backend team hasn't given us the new endpoint yet. I'll ping them again today.
+Speaker C: I finished writing unit tests for the payment module, all passing. Today I'll start on the checkout UI.
+Speaker A: Okay, Priya can you follow up with backend by end of day and let us know?
+Speaker B: Yes, I'll message them right after this call.
+Speaker A: Great, let's also plan to demo the payment module tests in tomorrow's sync.
+Speaker C: Sounds good, I'll prepare a short demo.

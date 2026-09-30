@@ -1,0 +1,10 @@
+Speaker A: Let's plan the sprint for next two weeks. Main goal is finishing the onboarding flow.
+Speaker B: I think we should split it into three tasks — welcome screen, profile setup, and preference selection.
+Speaker C: Agreed. I can take the welcome screen and profile setup.
+Speaker B: I'll handle preference selection and hook it up to the backend.
+Speaker A: We decided last time to use React Query for data fetching, let's stick with that.
+Speaker C: Should we also include the email verification step in this sprint?
+Speaker A: Let's push that to the next sprint, keep this one focused on onboarding UI.
+Speaker B: Agreed. I'll have preference selection done by Friday.
+Speaker C: I'll aim to finish both my tasks by next Wednesday.
+Speaker A: Perfect, let's reconvene next Monday to check progress.
